@@ -72,3 +72,6 @@ Tuned Gradient Boosting Regressor
 R² Score: 0.59
 MAE: 21,342.58
 RMSE: 28,437.08
+
+** 🚀 Try It it out on live now **
+  : [Employee Salary Prediction on Streamlit](https://employeesalary-prediction-bklsn9blyf2pxkuk3e4sqn.streamlit.app/)
